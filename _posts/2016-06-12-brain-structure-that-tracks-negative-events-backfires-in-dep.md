@@ -3,13 +3,13 @@ description: >-
   A region of the brain that responds to bad experiences has the opposite
   reaction to expectations of aversive events in people with depression compared
   to healthy adults, finds a new study.
-dateModified: '2016-06-12T04:51:40.674Z'
-datePublished: '2016-06-12T04:52:14.830Z'
+dateModified: '2016-06-12T04:52:25.025Z'
+datePublished: '2016-06-12T04:52:25.698Z'
 title: Brain Structure That Tracks Negative Events BACKFIRES In Depression
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-12-brain-structure-that-tracks-negative-events-backfires-in-dep.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
