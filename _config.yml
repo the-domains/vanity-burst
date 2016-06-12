@@ -1,14 +1,14 @@
-layout_spectrum: 0.6373697952367365
-typography_spectrum: 0.6123158801347017
+layout_spectrum: 0.11368958582170308
+typography_spectrum: 0.741846686694771
 color:
-  brandStrength: 0.02886803960427642
-  lightness: 0.41276324982754886
-  saturation: 0.8948469331953675
-  rhythmicContrast: 0.014310421189293265
+  brandStrength: 0.3442355701699853
+  lightness: 0.5451960619539022
+  saturation: 0.7130847331136465
+  rhythmicContrast: 0.8693505700211972
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: VANITY BURST
