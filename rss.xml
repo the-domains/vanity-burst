@@ -4,8 +4,14 @@
         <description><![CDATA[VANITY BURST]]></description>
         <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 21:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 21:14:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/evaspacepublishingdesigns/?pnref=lhc</link>
+            <guid isPermaLink="false">9128beb8-7504-4880-870e-b6c05d10d0a9</guid>
+            <pubDate>Sun, 12 Jun 2016 21:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97a7e87-e3d4-43b5-a91d-f0749c99572e.jpg">]]></description>
@@ -68,13 +74,6 @@
             <link>http://mhajax.org/portfolio/project-name-7/</link>
             <guid isPermaLink="false">87f6adad-fe8c-4492-bbde-b231732d9224</guid>
             <pubDate>Sun, 12 Jun 2016 05:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the difference? | VANITY BURST]]></title>
-            <description><![CDATA[<article><h1>What's the difference? | VANITY BURST</h1><p>BETWEEN SELF LOVE AND VANITY?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d422eba9a633dc118ac361c62ba5ae595be3f8c3.jpg"></article>]]></description>
-            <link>http://www.vanityburst.com/#!Whats-the-difference/cjds/62351ECE-6BA4-4538-BC5D-C309CC71BC78</link>
-            <guid isPermaLink="false">0ec6b0c4-53fa-4f4e-98ef-b67a5d05b0c1</guid>
-            <pubDate>Sun, 12 Jun 2016 05:10:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
