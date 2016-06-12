@@ -4,8 +4,14 @@
         <description><![CDATA[VANITY BURST]]></description>
         <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 20:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 20:55:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/ProfessorMagazine/</link>
+            <guid isPermaLink="false">05a5684c-5189-4f6b-96b0-0b71bf823164</guid>
+            <pubDate>Sun, 12 Jun 2016 20:55:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b926617-cf94-410f-b451-10aa911b5e7a.jpg">]]></description>
@@ -68,13 +74,6 @@
             <link>http://www.vanityburst.com/#!Improve-Mental-Emotional-Health-by-Taking-Care-Of-Yourself/cjds/5759e61a0cf2cc77abfdf0ce</link>
             <guid isPermaLink="false">fc053f00-0445-4b27-ae2a-d41c0cd02359</guid>
             <pubDate>Sun, 12 Jun 2016 05:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improving Emotional Health]]></title>
-            <description><![CDATA[<article><h1>Improving Emotional Health</h1><p>In This Article People who are emotionally healthy are in control of their emotions and their behavior. They are able to handle life's challenges, build strong relationships, and recover from setbacks. But just as it requires effort to build or maintain physical health, so it is with mental and emotional health.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69998ae7e0487d64792b2b5c4aa83ae72d089855.jpg"></article>]]></description>
-            <link>http://www.helpguide.org/articles/emotional-health/improving-emotional-health.htm</link>
-            <guid isPermaLink="false">4cb673b1-0bc7-4daf-8790-53c76f5abbaf</guid>
-            <pubDate>Sun, 12 Jun 2016 05:00:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
