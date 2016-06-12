@@ -1,11 +1,11 @@
 ---
 description: 'Living withANXIETY '
 author: []
-datePublished: '2016-06-12T05:13:51.099Z'
-dateModified: '2016-06-12T05:13:50.535Z'
+datePublished: '2016-06-12T05:13:56.030Z'
+dateModified: '2016-06-12T05:13:55.614Z'
 title: ''
 sourcePath: _posts/2016-06-12-living-withanxiety.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
