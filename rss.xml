@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[VANITY BURST]]></title>
         <description><![CDATA[VANITY BURST]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 04:44:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 05:00:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Improving Emotional Health]]></title>
+            <description><![CDATA[<article><h1>Improving Emotional Health</h1><p>In This Article People who are emotionally healthy are in control of their emotions and their behavior. They are able to handle life's challenges, build strong relationships, and recover from setbacks. But just as it requires effort to build or maintain physical health, so it is with mental and emotional health.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69998ae7e0487d64792b2b5c4aa83ae72d089855.jpg"></article>]]></description>
+            <link>http://www.helpguide.org/articles/emotional-health/improving-emotional-health.htm</link>
+            <guid isPermaLink="false">4cb673b1-0bc7-4daf-8790-53c76f5abbaf</guid>
+            <pubDate>Sun, 12 Jun 2016 05:00:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe9269b3-2347-4e6f-9448-337e67a80639.png">]]></description>
-            <link>undefined03012688-3099-4ee0-826d-c56ace38a0a6/index.html</link>
+            <link>https://thegrid.ai/vanity-burst/03012688-3099-4ee0-826d-c56ace38a0a6/index.html</link>
             <guid isPermaLink="false">03012688-3099-4ee0-826d-c56ace38a0a6</guid>
             <pubDate>Sun, 12 Jun 2016 04:44:44 GMT</pubDate>
         </item>
