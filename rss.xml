@@ -4,8 +4,15 @@
         <description><![CDATA[VANITY BURST]]></description>
         <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 21:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 23:20:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Are You Trying To Impress Others?]]></title>
+            <description><![CDATA[<article><h1>Are You Trying To Impress Others?</h1><p>A story told with Adobe Spark Video.</p><img src="https://cdn.cp.adobe.io/content/2/rendition/9fa7120a-3f45-4d52-b05a-0e47e42c5203/artwork/bd30ebc1-d93c-443c-a45a-659452b0e8f2/version/0/format/jpg/dimension/width/size/1024"></article>]]></description>
+            <link>https://spark.adobe.com/video/BkllavoV</link>
+            <guid isPermaLink="false">a43e0524-6fb4-4498-bedf-edfe4131d2a8</guid>
+            <pubDate>Sun, 12 Jun 2016 23:20:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/evaspacepublishingdesigns/?pnref=lhc</link>
@@ -67,13 +74,6 @@
             <link>http://mhajax.org/portfolio/project-name-1/</link>
             <guid isPermaLink="false">cee34144-7c43-4194-8682-2b34d6c764b7</guid>
             <pubDate>Sun, 12 Jun 2016 05:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bullying Prevention]]></title>
-            <description><![CDATA[<article><h1>Bullying Prevention</h1><p>Definition of bullying (as per Florida Statute & Duval County Public Schools): Systematically and chronically, inflicting physical hurt or psychological distress, on one or more individuals. It is severe or pervasive enough to create an intimidating, hostile, or offensive environment; cause discomfort or humiliation; or unreasonably interfere with the individual's school performance or participation; and is often characterized by an imbalance of power.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4915a383d1bfc2df70f3fc3f025b78a3e2e6b4d.jpg"></article>]]></description>
-            <link>http://mhajax.org/portfolio/project-name-7/</link>
-            <guid isPermaLink="false">87f6adad-fe8c-4492-bbde-b231732d9224</guid>
-            <pubDate>Sun, 12 Jun 2016 05:39:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
