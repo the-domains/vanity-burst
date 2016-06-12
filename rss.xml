@@ -4,8 +4,15 @@
         <description><![CDATA[VANITY BURST]]></description>
         <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 20:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 21:02:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2948003-5bcd-4991-af56-0460cd7bb15a.jpg">]]></description>
+            <link>https://thegrid.ai/vanity-burst/fdfab0d8-7547-40ab-a81a-f21d6365175a/index.html</link>
+            <guid isPermaLink="false">fdfab0d8-7547-40ab-a81a-f21d6365175a</guid>
+            <pubDate>Sun, 12 Jun 2016 21:02:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/ProfessorMagazine/</link>
@@ -67,13 +74,6 @@
             <link>http://www.vanityburst.com/#!Physical-Health-Connected-to-Mental/cjds/5758951c0cf23167914e0cdc</link>
             <guid isPermaLink="false">f12008ca-6a23-4d15-91c4-aa78cc44319e</guid>
             <pubDate>Sun, 12 Jun 2016 05:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Improve Mental & Emotional Health by Taking Care Of Yourself | VANITY BURST]]></title>
-            <description><![CDATA[<article><h1>Improve Mental & Emotional Health by Taking Care Of Yourself | VANITY BURST</h1><p>In order to maintain and strengthen your mental and emotional health, it's important to pay attention to your own needs and feelings. Don't let stress and negative emotions build up. Try to maintain a balance between your daily responsibilities and the things you enjoy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adffdcf72a4b4051f70eac3901f76ae7fbe4b89e.jpg"></article>]]></description>
-            <link>http://www.vanityburst.com/#!Improve-Mental-Emotional-Health-by-Taking-Care-Of-Yourself/cjds/5759e61a0cf2cc77abfdf0ce</link>
-            <guid isPermaLink="false">fc053f00-0445-4b27-ae2a-d41c0cd02359</guid>
-            <pubDate>Sun, 12 Jun 2016 05:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
