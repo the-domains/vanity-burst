@@ -3,20 +3,20 @@ description: >-
   A region of the brain that responds to bad experiences has the opposite
   reaction to expectations of aversive events in people with depression compared
   to healthy adults, finds a new study.
-dateModified: '2016-06-12T04:52:25.025Z'
-datePublished: '2016-06-12T04:52:25.698Z'
+dateModified: '2016-06-12T20:02:25.583Z'
+datePublished: '2016-06-12T20:02:26.772Z'
 title: Brain Structure That Tracks Negative Events BACKFIRES In Depression
 author: []
 sourcePath: >-
   _posts/2016-06-12-brain-structure-that-tracks-negative-events-backfires-in-dep.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/760d6269-5d01-45ca-ab5c-8e337bbaca5d.png)
+![BRAIN STRUCTURE](https://the-grid-user-content.s3-us-west-2.amazonaws.com/760d6269-5d01-45ca-ab5c-8e337bbaca5d.png)
 
 # _**Brain Structure That Tracks Negative Events BACKFIRES In Depression**_
 
@@ -32,6 +32,6 @@ There were no differences in average habenula size between people with depressio
 
 "The habenula's role in depression is clearly much more complex than previously thought," explains lead author Dr. Rebecca Lawson (UCL Wellcome Trust Centre for Neuroimaging). "From this experimental fMRI study we can draw conclusions about the effects of anticipated shocks on habenula activation in depressed individuals compared with healthy volunteers. We can only speculate as to how this deactivation is linked to symptoms, but it could be that this ancient part of the brain actually plays a protective role against depression. Animal experiments have shown that stimulating the habenula leads to avoidance, and it is possible that this occurs for mental as well as physical negative events. So one possible explanation is that the habenula may help us to avoid dwelling on unpleasant thoughts or memories, and when this is disrupted you get the excessive negative focus that is common in depression."
 
-University College London. (2016, May 31). Brain structure that tracks negative events backfires in depression. ScienceDaily. 
+University College London. (2016, May 31). Brain structure that tracks negative events backfires in depression. ScienceDaily.
 
 ### Retrieved June 10, 2016 from www.sciencedaily.com/releases/2016/05/160531081803.htm
