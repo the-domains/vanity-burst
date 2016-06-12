@@ -1,5 +1,6 @@
-layout_spectrum: 0.11368958582170308
 typography_spectrum: 0.741846686694771
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3442355701699853
   lightness: 0.5451960619539022
@@ -11,4 +12,18 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1c12941-2d3b-4b7a-980c-5dc07705d66e.png
+  appId: '280970941925310'
+  type: Magazine
+layout_spectrum: 0.11368958582170308
+author:
+  name: Eva Space
+  email: evakspace@yahoo.com
+  url: 'http://evakspace.wix.com/evaspace'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/736d81df-2048-4042-9895-dce0f5b93bdb.png
 name: VANITY BURST
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/359c4a7c-51d1-4937-91cb-095be7637d9e.png
