@@ -4,11 +4,18 @@
         <description><![CDATA[VANITY BURST]]></description>
         <link>https://thegrid.ai/vanity-burst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 23:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 20:46:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vanity-burst/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Are You Living With Depression?]]></title>
+            <description><![CDATA[<article><h1>Are You Living With Depression?</h1><p>Uploaded by Eva Space on 2016-06-13.</p></article>]]></description>
+            <link>https://youtu.be/1TLRd9Jg7mE</link>
+            <guid isPermaLink="false">b6187eaf-73f1-4d60-bb01-88a07066b661</guid>
+            <pubDate>Mon, 13 Jun 2016 20:46:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Are You Trying To Impress Others?]]></title>
-            <description><![CDATA[<article><h1>Are You Trying To Impress Others?</h1><p>A story told with Adobe Spark Video.</p><img src="https://cdn.cp.adobe.io/content/2/rendition/9fa7120a-3f45-4d52-b05a-0e47e42c5203/artwork/bd30ebc1-d93c-443c-a45a-659452b0e8f2/version/0/format/jpg/dimension/width/size/1024"></article>]]></description>
+            <description><![CDATA[<article><h1>Are You Trying To Impress Others?</h1><p>A story told with Adobe Spark Video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58279439771dd933e0d8cfd2db4e51d68e0c6476.jpg"></article>]]></description>
             <link>https://spark.adobe.com/video/BkllavoV</link>
             <guid isPermaLink="false">a43e0524-6fb4-4498-bedf-edfe4131d2a8</guid>
             <pubDate>Sun, 12 Jun 2016 23:20:22 GMT</pubDate>
@@ -67,13 +74,6 @@
             <link>https://youtu.be/RLo_JkcSGyw</link>
             <guid isPermaLink="false">b6ae61e3-ce15-4fb9-b5b0-2e96ac2f800d</guid>
             <pubDate>Sun, 12 Jun 2016 20:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mental Health First Aid]]></title>
-            <description><![CDATA[<article><h1>Mental Health First Aid</h1><p>YOUTH MENTAL HEALTH FIRST AID Youth Mental Health First Aid USA is an 8 hour public education program which introduces participants to the unique risk factors and warning signs of mental health problems in adolescents, builds understanding of the importance of early intervention, and teaches individuals how to help an adolescent in crisis or experiencing a mental health challenge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdbf17c07f77812637d9fd14e723777d422f4fae.jpg"></article>]]></description>
-            <link>http://mhajax.org/portfolio/project-name-1/</link>
-            <guid isPermaLink="false">cee34144-7c43-4194-8682-2b34d6c764b7</guid>
-            <pubDate>Sun, 12 Jun 2016 05:41:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
